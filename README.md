@@ -15,6 +15,3 @@ Optimizes parking lot capacity for varying car arrival rates.
 Ensures efficient utilization of parking resources while minimizing queues.
 
 
-License
-
-This project was developed as part of the ITI 1121 - Introduction to Computing II course at the University of Ottawa. It is intended for educational purposes only. Redistribution or use of this code in other projects or assignments is not permitted without permission.
